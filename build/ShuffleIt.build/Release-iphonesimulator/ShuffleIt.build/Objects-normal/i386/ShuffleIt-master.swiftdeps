@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "478a8334b78b668ec25547adf0b1fc85"
+build_time: [526578277, 314777000]
+inputs:
+  "/Users/CHINTU/Desktop/ShuffleIt/War/ViewController.swift": [526577365, 0]
+  "/Users/CHINTU/Desktop/ShuffleIt/War/AppDelegate.swift": [526577365, 0]
